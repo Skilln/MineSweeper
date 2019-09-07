@@ -9,7 +9,7 @@ import com.skilln.game.values.Strings;
 public class AtlasLoader {
 
     //LOG
-    public static final String TAG = "ATLAS_LOADER";
+    private static final String TAG = "ATLAS_LOADER";
 
     private AssetManager assetManager = null;
 
